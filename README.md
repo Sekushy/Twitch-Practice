@@ -1,4 +1,4 @@
-# y Twitch Practice
+# Twitch Practice
 
 First ever HTML/CSS project.
 
